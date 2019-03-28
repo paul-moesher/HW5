@@ -1,0 +1,15 @@
+/* for when the screen size becomes too small */
+@media only screen and (max-width: 768px)     {
+ .center {
+    margin: auto;
+    width: 100%;
+    text-align: center;
+}
+}
+
+
+
+
+
+
+
